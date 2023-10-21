@@ -1,4 +1,32 @@
-# React + TypeScript + Vite
+# Drag and Drop TO DO App 
+
+[Live Demo](https://drag-todo.netlify.app/)
+
+
+![image](https://github.com/Heechem/Drag-N-Drop/assets/117024247/abc4501b-0b4f-4235-aab0-3af8d8ccca70)
+
+
+## Overview
+
+Welcome to the Drag and Drop To-Do App! This application allows you to create and manage tasks through an intuitive drag-and-drop interface. You can organize your tasks by creating columns and easily move them between different columns.
+
+## technologie used :
+
+This project is built using the following technologies:
+
+- React
+- TypeScript
+- Tailwind CSS
+- DnD Kit (Drag and Drop Library)
+- Vite (Frontend Build Tool)
+
+
+## Deployment
+The application is hosted on Netlify, and you can access it through the Live Demo link. Enjoy managing your tasks with the power of drag and drop!
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
